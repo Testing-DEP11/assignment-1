@@ -1,4 +1,4 @@
-public class Demo6_Task6_b {
+public class Demo6_Task_b {
     public static void main(String[] args) {
 
         String name1 = "Alice";
